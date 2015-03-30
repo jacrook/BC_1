@@ -1,6 +1,6 @@
 var config = require('./')
 
 module.exports = {
-  url: 'http://greypants.github.io/gulp-starter/',
+  url: 'http://jacrook.github.io/BC_1/',
   src: config.publicDirectory + '/**/*'
 }
